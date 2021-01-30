@@ -1,5 +1,5 @@
-# Folder for Assignment 1
-## Course Notes for DATA 690
+# Course Notes for DATA 690
+## Assignment 1
 
 **Author**: Abeerah Qadir
 
@@ -20,3 +20,8 @@ Those doing data analysis or scientific computing make use of **IPython**, an en
 
 **%run Command** - You can run any file as a Python program inside the environment of your IPython session using the %run command. 
  ***%run ipython_script_test.py*** - The script is run in an empty namespace (with no imports or other variables defined) so that the behavior should be identical to running the program on the command line using python script.py.
+
+**Execute code from clipboard** - You can copy and paste code into any code cell
+and execute it.
+***%paste*** - takes whatever text is in the clipboard and executes it as a single block in the shell
+***%cpaste*** - similar but gives you a special prompt for pasting code into
