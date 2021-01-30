@@ -16,4 +16,7 @@ Those doing data analysis or scientific computing make use of **IPython**, an en
 **Tab Completion** - While entering expressions in the shell, pressing the Tab key will search the namespace for any variables (objects, functions, etc.) matching the characters you have typed so far.
   *Combined with %Run* & *function key-word arguments*
   
- 
+ **Introspection** - Using a question mark (?) before or after a variable will display some general information about the object
+
+**%run Command** - You can run any file as a Python program inside the environment of your IPython session using the %run command. 
+ ***%run ipython_script_test.py*** - The script is run in an empty namespace (with no imports or other variables defined) so that the behavior should be identical to running the program on the command line using python script.py.
