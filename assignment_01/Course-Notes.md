@@ -44,3 +44,8 @@ be indented by the same amount until the end of the block
 
 **Reference** - When assigning a variable (or name) in Python, you are creating a reference to the object on the righthand side of the equals sign.
 
+**Variables** - names for objects within a particular namespace; the type information is
+stored in the object itself.
+
+**Duck Typing** - Often you may not care about the type of an object but rather only whether it has certain methods or behavior.
+
