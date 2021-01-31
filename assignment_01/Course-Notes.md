@@ -70,4 +70,10 @@ be modified
 
 **if statement** - checks a condition that, if True, evaluates the code in the block that follows
 
+**for loops** - do something with value.  while loop specifies a condition and a block of code that is to be executed until the condition evaluates to False or the loop is explicitly ended with break.
+
+**pass** - can be used in blocks where no action is to be taken (or as a placeholder for code not yet implemented)
+
+**Ternary expression** - allows you to combine an if-else block that produces a value into a single line or expression
+
 
