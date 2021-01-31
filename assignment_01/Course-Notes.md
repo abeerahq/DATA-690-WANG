@@ -25,3 +25,7 @@ Those doing data analysis or scientific computing make use of **IPython**, an en
 and execute it.
 ***%paste*** - takes whatever text is in the clipboard and executes it as a single block in the shell
 ***%cpaste*** - similar but gives you a special prompt for pasting code into
+
+**Magic Commands** -  any command prefixed by the percent symbol %. They are designed to facilitate common tasks and enable you to easily control the behavior of the IPython system.
+
+**%matplotlib** sets up the integration so you can create multiple plot windows without interfering with the console session
