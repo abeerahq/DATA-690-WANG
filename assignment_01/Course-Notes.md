@@ -29,3 +29,18 @@ and execute it.
 **Magic Commands** -  any command prefixed by the percent symbol %. They are designed to facilitate common tasks and enable you to easily control the behavior of the IPython system.
 
 **%matplotlib** sets up the integration so you can create multiple plot windows without interfering with the console session
+
+### Language Semantics
+
+Python uses whitespace (tabs or spaces) to structure code instead of using braces as in
+many other languages
+
+**Colon** denotes the start of an indented code block after which all of the code must
+be indented by the same amount until the end of the block
+
+**Everything is an object** - Every number, string, data structure, function, class, module, and so on exists in the Python interpreter in its own “box” = *Python Object*
+
+**Comments** - Pound sign (#) before text is used to add comments to code.
+
+**Reference** - When assigning a variable (or name) in Python, you are creating a reference to the object on the righthand side of the equals sign.
+
