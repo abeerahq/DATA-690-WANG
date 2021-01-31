@@ -1,5 +1,5 @@
 # Course Notes for DATA 690
-## Assignment 1
+## Assignment 1 - Chapter 1 & 2
 
 **Author**: Abeerah Qadir
 
