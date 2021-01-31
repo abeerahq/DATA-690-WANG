@@ -49,3 +49,11 @@ stored in the object itself.
 
 **Duck Typing** - Often you may not care about the type of an object but rather only whether it has certain methods or behavior.
 
+**Module** - a file with the .py extension containing Python code.
+
+**Mutable objects** -  means that the object or values that they contain can
+be modified
+
+**Immutable** - like strings and tuples
+
+**Scalar** - numerical data, strings, boolean (True or False) values, and dates and time. These “single value” types are sometimes called scalar types.
