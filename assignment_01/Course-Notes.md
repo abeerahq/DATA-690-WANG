@@ -57,3 +57,17 @@ be modified
 **Immutable** - like strings and tuples
 
 **Scalar** - numerical data, strings, boolean (True or False) values, and dates and time. These “single value” types are sometimes called scalar types.
+
+**String literals** -  using either single quotes ' or double quotes ". For multiline strings you can use triple quotes ' ' ' or " " ": 
+
+**Slicing** - syntax s[:3]
+
+**Escape character** - backslash character \, s used to specify special characters like newline \n or Unicode characters.
+
+**None** - is the Python null value type.
+
+**Control Flow** - Python has several built-in keywords for conditional logic, loops, and other standard control flow concepts. 
+
+**if statement** - checks a condition that, if True, evaluates the code in the block that follows
+
+
