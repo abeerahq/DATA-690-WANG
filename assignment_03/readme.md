@@ -1,4 +1,4 @@
-## Folder for Assignment 2
+## Folder for Assignment 3
 
 **Author**: Abeerah Qadir
 
