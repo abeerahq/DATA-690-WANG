@@ -40,4 +40,40 @@ Second, line graphs for GDP and post-secondary educational attainment will be an
 
 ![image](https://user-images.githubusercontent.com/78180886/112775590-53ce4880-900b-11eb-9997-358a3d9f7281.png)
 
+#### GDP per capita, PPP vs. Post-Secondary Educational Attainment in 2016
+
+![image](https://user-images.githubusercontent.com/78180886/112775634-76606180-900b-11eb-952c-12c2bc1a9a89.png)
+
+#### Post-Secondary Educational Attainment Overtime
+
+![image](https://user-images.githubusercontent.com/78180886/112775652-88420480-900b-11eb-9711-02bc98eb714f.png)
+
+#### GDP per capita, PPP Overtime
+
+![image](https://user-images.githubusercontent.com/78180886/112775673-93953000-900b-11eb-8fed-e9cc93732420.png)
+
+#### Post-Secondary Educational Attainment in 2016
+
+![image](https://user-images.githubusercontent.com/78180886/112775692-a14ab580-900b-11eb-9173-c1becc1f976b.png)
+
+#### Findings
+
+The bubble charts show in 2008 and 2016, United States has the highest GDP Per Capita, PPP of about 48K and 58K USD, respectively. In 2008 and 2016, Germany has the second highest GDP Per Capita, PPP of about 38K and 50K USD, respectively. In 2008 and 2016, Mexico has the third highest GDP Per Capita, PPP of about 15K and 19K USD, respectively. In 2008 and 2016, Pakistan has the lowest GDP Per Capita, PPP of about 3800 and 4400 USD. *Note: Analysis is only comparing these 4 countries.*
+
+The line graph for post-secondary education attainment overtime shows a steady increase overtime for United States and Germany. However, the line graph for post-secondary education attainment overtime for Mexico shows fluctuation throughout the years, and Pakistan shows minimal growth and remains stable throughout the years.
+
+The line graph for GDP per capita, PPP overtime shows a steady increase overtime for United States and Germany. However, the line graph for GDP per capita, PPP overtime for Mexico is a very minimal increase while Pakistan remains stable throughout the years. 
+
+The bar chart shows United States having the highest number of people with post-secondary education, then Germany, then Mexico, and lastly Pakistan.
+
+#### Analysis
+
+The bubble charts show a positive correlation so the higher the level of education attained, the higher the GDP Per Capita, PPP of a country. The results show that higher education attainment for a population increases GDP of a country. The historic trend from 2008 to 2016 also remains the same (positive correlation). So essentially if people have better access to education and attain higher education, the economy will thrive even more. Higher education contributes to economic growth as it involves keeping up with technological development, transferring knowledge and raising awareness, which all contribute to reducing the knowledge gap and poverty in these countries.
+
+The data shows similarities between United States and Germany as they both are first-world countries and have high GDP Per Capita, PPP and high post-secondary education attainment. Mexico and Pakistan have similarities in that they both have much lower education attainment and GDP. Similarities between all four countries are that the higher the education attainment, the higher the GDP for countries.
+
+When comparing the countries, it is clear that first-world countries have much higher education attainment compared to third-world countries. First-world countries also have higher GDP Per Capita, PPP than third-world countries. Since third-world countries are developing nations, the economy growth is much slower compared to first-world countries. Better economy leads to more money for educational programs and resources, allowing residents of first-world countries to attain higher education. People living in third-world countries have less educational attainment due to a lack of funding for education, untrained teachers, lack of learning materials, long school distances, and overall expense of education.
+
+
+
 
