@@ -1,4 +1,4 @@
-### Correlation Between GDP Per Capita, PPP and Post-Secondary Education Attainment
+## Correlation Between GDP Per Capita, PPP and Post-Secondary Education Attainment
 
 **Author**: Abeerah Qadir
 
