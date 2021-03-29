@@ -4,6 +4,8 @@
 
 **Date**: March 28, 2021
 
+![image](https://user-images.githubusercontent.com/78180886/112776159-de637780-900c-11eb-86e9-dbe1e78667e3.png)
+
 ### **Introduction**
 
 #### Background Information (Area of Investigation)
