@@ -1,0 +1,37 @@
+,Year,SE.SEC.CUAT.PO.ZS,SP.POP.TOTL,NY.GDP.PCAP.PP.CD,Country Code,Country Name,Region,Income Group,Lending Type
+0,2008,28.8160705566,82110097,37802.3874303197,DEU,Germany,Europe & Central Asia,High income,Not classified
+1,2009,29.8395595551,81902307,36842.9161976042,DEU,Germany,Europe & Central Asia,High income,Not classified
+2,2010,30.2569007874,81776930,38982.4263045636,DEU,Germany,Europe & Central Asia,High income,Not classified
+3,2011,31.1494998932,80274983,42541.5310884096,DEU,Germany,Europe & Central Asia,High income,Not classified
+4,2012,31.7936401367,80425823,43359.6148271723,DEU,Germany,Europe & Central Asia,High income,Not classified
+5,2013,32.3349189758,80645605,44993.8927459315,DEU,Germany,Europe & Central Asia,High income,Not classified
+6,2014,33.4242095947,80982500,47011.5510935131,DEU,Germany,Europe & Central Asia,High income,Not classified
+7,2015,34.4100914001,81686611,47609.7810045816,DEU,Germany,Europe & Central Asia,High income,Not classified
+8,2016,35.652721405,82348669,50579.6839299266,DEU,Germany,Europe & Central Asia,High income,Not classified
+9,2008,14.4625301361,110815271,14924.8217487322,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+10,2009,15.4787902832,112463887,14558.2448127429,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+11,2010,14.4238395691,114092963,15260.6205539571,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+12,2012,16.3126907349,117274155,17162.9275170326,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+13,2013,14.7768001556,118827161,17373.8970180913,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+14,2014,14.4319295883,120355128,18056.7911564109,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+15,2015,16.2725505829,121858258,18301.4994177394,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+16,2016,15.1532297134,123333376,19323.6663390245,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+17,2017,15.8232803345,124777324,19785.905008208,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+18,2008,5.9769501686,171648986,3818.0719405522,PAK,Pakistan,South Asia,Lower middle income,Blend
+19,2009,6.6714601517,175525609,3868.7439644733,PAK,Pakistan,South Asia,Lower middle income,Blend
+20,2010,6.974460125,179424641,3890.2906619542,PAK,Pakistan,South Asia,Lower middle income,Blend
+21,2011,7.3681898117,183340592,3993.5501313396,PAK,Pakistan,South Asia,Lower middle income,Blend
+22,2012,7.5416398048,187281475,4018.703768681,PAK,Pakistan,South Asia,Lower middle income,Blend
+23,2013,7.991350174,191262919,4103.5840779917,PAK,Pakistan,South Asia,Lower middle income,Blend
+24,2014,8.7533102036,195306825,4238.5945208844,PAK,Pakistan,South Asia,Lower middle income,Blend
+25,2016,8.6171302795,203627284,4410.0947532601,PAK,Pakistan,South Asia,Lower middle income,Blend
+26,2017,8.6503295898,207896686,4571.4144908715,PAK,Pakistan,South Asia,Lower middle income,Blend
+27,2008,38.2589111328,304093966,48382.5584490552,USA,United States,North America,High income,Not classified
+28,2009,38.6207695007,306771529,47099.9804711343,USA,United States,North America,High income,Not classified
+29,2010,39.1374206543,309321666,48467.5157769259,USA,United States,North America,High income,Not classified
+30,2011,39.9449386597,311556874,49886.8181094923,USA,United States,North America,High income,Not classified
+31,2012,40.663230896,313830990,51610.6052783379,USA,United States,North America,High income,Not classified
+32,2013,41.5046691895,315993715,53117.6678498178,USA,United States,North America,High income,Not classified
+33,2014,41.8897018433,318301008,55064.7445483427,USA,United States,North America,High income,Not classified
+34,2015,42.3375091553,320635163,56839.3817742317,USA,United States,North America,High income,Not classified
+35,2016,43.5118789673,322941311,57951.5840820997,USA,United States,North America,High income,Not classified
